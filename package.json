@@ -1,0 +1,30 @@
+{
+  "name": "react-redux-quick-starter",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "numeral": "^2.0.6",
+    "query-string": "^5.0.0",
+    "react": "^15.6.1",
+    "react-bootstrap": "^0.31.3",
+    "react-dom": "^15.6.1",
+    "react-fa": "^4.2.0",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "react-scripts": "1.0.13",
+    "react-select": "^1.0.0-rc.10",
+    "redux": "^3.7.2",
+    "redux-api-middleware": "^2.0.0-beta.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.4.0"
+  }
+}
